@@ -1,0 +1,4 @@
+webbrowser
+selenium
+pyautogui
+environs=9.2.0
